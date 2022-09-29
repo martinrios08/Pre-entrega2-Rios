@@ -1,0 +1,60 @@
+body {
+    margin-top: 0px;
+    padding: 0px; 
+    box-sizing: border-box; 
+}@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');   
+body{
+    font-family: 'Poppins';
+    background-image: url(fondo9.png);
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    margin-left: 350px;
+    padding: 0px;
+    color: aliceblue;
+  font-size: 80px;
+    align-items: baseline;
+}
+
+nav ul{
+
+    display: flex;
+    list-style: none;
+    padding-left: 820px;
+    padding-block-start: 0;
+    height: center;
+   
+    
+}   
+nav ul li{
+    align-items: baseline;
+    margin:  10px;
+    padding: 10px;
+    justify-content: space-between
+
+
+} 
+nav ul li a{  
+    font-size: 20px; 
+    color:blanchedalmond;
+}    
+    h2{
+        color: rgb(173, 168, 161);
+    }
+    h3{
+        color: grey;
+        font-size: 30px;
+    }
+    h4{
+        color: azure;
+        font-size: 40px;
+        
+    }
+    h5{
+        padding-left: 450px;
+        margin: center;
+        font-size: 40px;
+        color: beige;
+        
+    }

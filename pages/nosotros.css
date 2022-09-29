@@ -1,0 +1,32 @@
+body {
+    margin-top: 0px;
+    padding: 0px; 
+    box-sizing: border-box; 
+}@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');   
+body{
+    font-family: 'Poppins';
+    background-image: url(fondo7.png);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1{
+    padding: 7px;
+    height: 100px;
+    padding-top: center;
+    text-align: center;
+    font-size: 70px;
+    color: rgb(34, 21, 21);
+}
+
+h2{
+    padding: 18px;
+    height: 100px;
+    padding-top: center;
+    text-align: center;
+    font-size: 50px;
+    color: rgb(17, 17, 17);
+    
+    
+
+}
